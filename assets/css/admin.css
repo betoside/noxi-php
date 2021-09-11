@@ -1,20 +1,22 @@
 * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Montserrat', sans-serif; font-weight: 300; }
-.header { text-align: center; padding: 25px; margin-bottom: 50px; }
+.header { text-align: center; /*padding: 25px; margin-bottom: 20px;*/ }
 .header img { max-width: 100px; }
 .login-form { max-width: 300px; margin: 0 auto; }
 .login-form form { padding: 30px; /*border: 1px solid #ccc;*/ }
 .login-form input { width: 100%; padding: 5px; }
-.login-form button { width: 100%; padding: 8px 5px; color: #fff; background: var(--azul-txt); border: 1px solid var(--azul-txt); }
+.bt-enviar { width: 100%; padding: 8px 5px; color: #fff; background: var(--azul-txt); border: 1px solid var(--azul-txt); }
 .login-form a { display: block; padding: 30px; }
 
-.admin-body { display: flex; }
+.admin-body { display: flex; flex-direction: column; }
 .menu { background: rgba(204, 204, 204, 0.315); padding: 10px; }
-nav ul { flex-direction: column; }
-nav li { padding: 7px; }
+/* nav ul { flex-direction: column; } */
+nav li { padding: 7px; flex: 1; justify-content: center; display: flex; align-items: center; }
+nav li.active,
 nav li:hover { background-color: #fff; }
-
-.area-formlario { padding: 10px 25px 25px 25px; }
+.img-menu { max-height: 40px; }
+.area-formlario { padding: 10px 25px 25px 25px; flex: 1;  }
 
 .alert { padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; }
 .alert-danger { color: #a94442; background-color: #f2dede; border-color: #ebccd1; }
 .alert-warning { color: #664d03; background-color: #fff3cd; border-color: #ffecb5; }
+.alert-success { color: #0f5132; background-color: #d1e7dd; border-color: #badbcc; }

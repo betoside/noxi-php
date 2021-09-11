@@ -28,8 +28,9 @@
             <div class="alert alert-danger">
                 Usuário e/ou senha errados
             </div>
-            <?php endif; ?>
-            <?php if(isset($alerta) && !empty($alerta)): ?>
+            <?php 
+            endif;
+            if(isset($alerta) && !empty($alerta)): ?>
             <div class="alert alert-warning" role="alert">
                 :)
             </div>
@@ -42,7 +43,7 @@
                 Senha <br>
                 <input type="password" name="senha"> <br><br>
 
-                <button>Acessar</button>
+                <button class="bt-enviar">Acessar</button>
             </form>
             <!-- <a href="esqueceu-senha.php">Esqueceu a senha?</a> -->
         </div>
