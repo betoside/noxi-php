@@ -3,8 +3,14 @@
 .header img { max-width: 100px; }
 .login-form { max-width: 300px; margin: 0 auto; }
 .login-form form { padding: 30px; /*border: 1px solid #ccc;*/ }
-.login-form input { width: 100%; padding: 5px; }
-.bt-enviar { width: 100%; padding: 8px 5px; color: #fff; background: var(--azul-txt); border: 1px solid var(--azul-txt); }
+.login-form input { width: 100%; }
+form input[type=file],
+form input[type=password],
+form input[type=text],
+form input[type=email] {
+    padding: 5px;
+}
+.bt-enviar { width: 100%; padding: 8px 5px; color: #fff; background: var(--azul-txt); border: 1px solid var(--azul-txt); text-decoration: none; }
 .login-form a { display: block; padding: 30px; }
 
 .admin-body { display: flex; flex-direction: column; }
@@ -20,3 +26,10 @@ nav li:hover { background-color: #fff; }
 .alert-danger { color: #a94442; background-color: #f2dede; border-color: #ebccd1; }
 .alert-warning { color: #664d03; background-color: #fff3cd; border-color: #ffecb5; }
 .alert-success { color: #0f5132; background-color: #d1e7dd; border-color: #badbcc; }
+
+.w-150 { width: 150px; }
+strong { font-weight: bold;}
+
+.destaque-home-container {display: flex; flex-wrap: wrap;}
+.destaque-home { max-width: 33%; padding: 15px; }
+.destaque-home img { max-width: 100%; }
