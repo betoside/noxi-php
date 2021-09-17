@@ -33,3 +33,14 @@ strong { font-weight: bold;}
 .destaque-home-container {display: flex; flex-wrap: wrap;}
 .destaque-home { max-width: 33%; padding: 15px; }
 .destaque-home img { max-width: 100%; }
+
+.funcionalidades { display: flex; justify-content: space-between; margin-bottom: 10px; }
+.funcionalidades a { display: inline-block; text-decoration: none; padding: 3px; border-radius: 3px; font-size: 13px; }
+.funcionalidades a.excluir,
+.funcionalidades a.excluir i { color: #a94442; }
+.funcionalidades a.editar, 
+.funcionalidades a.editar i { color: #0f5132; }
+.funcionalidades a.excluir { border: 1px solid #fff; border-bottom: 1px solid #a94442; /*background: #f00;*/ }
+.funcionalidades a.editar { border: 1px solid #fff; border-bottom: 1px solid #0f5132; /*background: #00f;*/ }
+.funcionalidades a.excluir:hover { border: 1px solid #a94442; }
+.funcionalidades a.editar:hover { border: 1px solid #0f5132; }

@@ -29,6 +29,16 @@
 
                     <?php foreach($cDados as $item): ?>
                     <div class="destaque-home">
+                        <div class="funcionalidades">
+                            <a href="home_excluir.php?id=<?=$item['id'];?>" class="excluir">
+                                <i class="fas fa-trash-alt"></i>
+                                Excluir
+                            </a>
+                            <a href="home_editar.php?id=<?=$item['id'];?>" class="editar">
+                                <i class="fas fa-edit"></i>
+                                Editar
+                            </a>
+                        </div>
                         <strong>Banner</strong>: <br>                        
                         <img src="<?=$base;?>/assets/img/carrosselHome/<?=$item['imagem_banner'];?>" alt="">                        
                         <br><br>
