@@ -37,6 +37,10 @@
 
                         • Clientes (página) - 
                         inserção, exclusão e ordenação dos logos.
+                            id
+                            nome
+                            ordem
+                            criado_em
                         
                         • Serviços - 
                         inserção, exclusão e ordenação das fotos de cada serviço 

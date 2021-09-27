@@ -313,19 +313,19 @@ include 'header.php';
         
                 <div class="carrossel-contain style-clientes-home" id="glider-clientes1">
                     <div class="glider">
-                        <div><img src="assets/img/cliente-arcelor.png" alt=""></div>
-                        <div><img src="assets/img/cliente-braskem.png" alt=""></div>
-                        <div><img src="assets/img/cliente-camargocorrea.png" alt=""></div>
-                        <div><img src="assets/img/cliente-csn.png" alt=""></div>
-                        <div><img src="assets/img/cliente-emerson.png" alt=""></div>
-                        <div><img src="assets/img/cliente-enesa.png" alt=""></div>
-                        <div><img src="assets/img/cliente-gerdau.png" alt=""></div>
-                        <div><img src="assets/img/cliente-goodyear.png" alt=""></div>
-                        <div><img src="assets/img/cliente-odebrecht.png" alt=""></div>
-                        <div><img src="assets/img/cliente-petrobras.png" alt=""></div>
-                        <div><img src="assets/img/cliente-usiminas.png" alt=""></div>
-                        <div><img src="assets/img/cliente-vale.png" alt=""></div>
-                        <div><img src="assets/img/cliente-whitemartins.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-arcelor.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-braskem.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-camargocorrea.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-csn.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-emerson.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-enesa.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-gerdau.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-goodyear.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-odebrecht.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-petrobras.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-usiminas.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-vale.png" alt=""></div>
+                        <div><img src="assets/img/clientes/cliente-whitemartins.png" alt=""></div>
                     </div>
                     <button aria-label="Previous" class="glider-prev"><</button>
                     <button aria-label="Next" class="glider-next">></button>

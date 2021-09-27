@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="<?=$base;?>assets/img/fontawesome/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="../assets/css/style.css">
-    <link rel="stylesheet" href="../assets/css/admin.css?a=19">
+    <link rel="stylesheet" href="../assets/css/admin.css?a=20">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
-    <title>Noxi</title>
+    <title>Noxi admin, <?=$config['secao'];?></title>
 </head>
 <body>
     <div class="container">
