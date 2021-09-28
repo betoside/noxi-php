@@ -34,7 +34,7 @@ strong { font-weight: bold;}
 .destaque-home { max-width: 33%; padding: 15px; }
 .destaque-home img { max-width: 100%; }
 
-.funcionalidades { display: flex; justify-content: space-between; margin-bottom: 10px; }
+.funcionalidades { /*display: flex; justify-content: space-between;*/ margin-bottom: 10px; }
 .funcionalidades a { display: inline-block; text-decoration: none; padding: 3px; border-radius: 3px; font-size: 13px; }
 .funcionalidades a.excluir,
 .funcionalidades a.excluir i { color: #a94442; }

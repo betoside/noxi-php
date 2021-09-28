@@ -15,6 +15,8 @@
 
             <div class="area-formlario">
 
+                <h1>Clientes</h1>
+
                 <br><br>
                 <a href="clientes_cadastrar.php" class="bt-enviar w-150">Cadastrar</a>
                 <br>
@@ -30,52 +32,14 @@
                         foreach($cDados as $cliente): ?>
 
                             <div class="cliente">
+                                <div class="funcionalidades">
+                                    <a href="clientes_excluir.php?id=<?=$cliente['id'];?>&img=<?=$cliente['nome'];?>" class="excluir">
+                                        <i class="fas fa-trash-alt"></i>
+                                        Excluir
+                                    </a>
+                                </div>
                                 <div class="brd"><img src="<?=$base;?>assets/img/clientes/<?=$cliente['nome'];?>" alt=""></div>
                             </div>
-
-                            <!-- 
-
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-arcelor.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-braskem.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-camargocorrea.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-csn.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-emerson.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-enesa.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-gerdau.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-goodyear.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-odebrecht.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-petrobras.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-usiminas.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-vale.png" alt=""></div>
-                            </div>
-                            <div class="cliente">
-                                <div class="brd"><img src="<?=$base;?>assets/img/cliente-whitemartins.png" alt=""></div>
-                            </div>
-                             -->
-
 
                         <?php endforeach;
                     } else {

@@ -27,4 +27,14 @@ class Clientes {
         return false;
     }
 
+    public function excluir($id)
+    {
+        global $pdo;
+        $sql = "DELETE FROM clientes WHERE id = :id";
+        $sql = $pdo->prepare($sql);
+        $sql->bindValue(':id', $id);
+        $sql->execute();
+        return true;        
+    }
+
 }
