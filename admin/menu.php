@@ -11,14 +11,14 @@
                         <li <?=($config['secao']=='user')?'class="active"':'';?>><a href="user.php">User</a></li>
                         <li><a href="sair.php">Sair</a></li>
                         <!-- 
-                        • Usuario 
+                        ok • Usuario 
 
                             nome
                             email
                             senha
 
 
-                        • Slider (home) - 
+                        ok • Slider (home) - 
                         inserção, exclusão, ordenação dos banners e 
                         inserção de link para página interna (em cada banner);
 
@@ -35,24 +35,36 @@
                                 ordem
 
 
-                        • Clientes (página) - 
+                        OK • Clientes (página) - 
                         inserção, exclusão e ordenação dos logos.
                             id
                             nome
                             ordem
                             criado_em
                         
-                        • Serviços - 
+                        
+                        >>> >>> >>> >>>
+                        • Serviços - tabela: servicos
+
+
                         inserção, exclusão e ordenação das fotos de cada serviço 
                         (de 03 a 06 fotos para cada serviço com carrossel, 
                         semelhante as fotos institucionais, 
                         miniaturas + lightbox para cada foto).
 
+                            id
                             titulo
                             descricao
-                            item titulo
-                            item descricao
-                            foto
+                                tabela: servicos_detalhes
+                                    id
+                                    id_servico
+                                    detalhe_titulo
+                                    detalhe_descricao
+
+                                tabela: servicos_foto
+                                    id
+                                    id_servico
+                                    foto
 
 
                         • Blog (página) - 
@@ -62,6 +74,8 @@
                             corpo
                             data publicacao
                             data de ordenação
+
+
                         -->
                     </ul>
                 </nav>

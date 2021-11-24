@@ -44,15 +44,18 @@
                 <div class="login-form">
 
                     <?php if(isset($sucesso) && !empty($sucesso)): ?>
+                    <br>
                     <div class="alert alert-success">
                         Dados atualizados com sucesso
                     </div>
                     <?php 
                     endif;
                     if(isset($erro) && !empty($erro)): ?>
+                    <br>
                     <div class="alert alert-danger">
-                        Usuário e/ou senha errados
+                        Algum erro aconteceu ou nada mudou, ;)
                     </div>
+
                     <?php 
                     endif;
                     if(isset($alerta) && !empty($alerta)): ?>

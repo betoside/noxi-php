@@ -16,7 +16,7 @@ include 'header.php';
 
             <h2 class="titulo-secao">serviços noxi</h2>
             <p>
-                Atuamos em todo Brasil. Não importa a origem ou localização da sua empresa, a NOXI QUÍMICA está qualificada para garantir a eficiência de todos os serviços oferecidos, desde o início da operação, até a entrega final.
+                Atuamos em todo Brasil. Independentemente da localização, a NOXI QUÍMICA está qualificada para garantir a eficiência de todos os serviços oferecidos, desde o início até a entrega final. 
             </p>
             <div class="img-servicos"></div>
             <br><br>
@@ -31,7 +31,7 @@ include 'header.php';
                 </div>
                 <div class="widget-servico-corpo">
                     <p>
-                        É um processo de bombeamento e filtragem em situações ideais de velocidade, com o objetivo de extrair partículas e contaminantes sólidos do interior das tubulações de sistemas hidráulicos e lubrificação.
+                        É um processo de bombeamento, circulação e filtragem em situações ideais de vazão e velocidade, com o objetivo de remover partículas e contaminantes sólidos do interior das tubulações dos sistemas hidráulicos e de lubrificação, ficando dentro de um nível de contaminação seguro e operacional, evitando o desgaste prematuro dos seus principais componentes.
                     </p>
 
                     <div class="topicos">
@@ -41,7 +41,7 @@ include 'header.php';
                                 NÍVEIS DE CONTAMINAÇÃO
                             </h4>
                             <p>
-                                O procedimento é supervisionado através de acompanhamento rigoroso, com contagem das partículas e enquadramento dentro da normas exigidas. 
+                                O contrôle é determinado pelo acompanhamento da contagem (quantidade) das partículas contidas num determinado volume do fluido, esse número é denominado ou classificado como Classe de Contaminação, de acordo com Normas Internacionais vigentes.
                             </p>                            
                         </div>
                         
@@ -50,13 +50,13 @@ include 'header.php';
                                 controle e prevenção de desgaste
                             </h4>
                             <p>
-                                Servo válvulas
+                                Servo válvulas 
                                 <br>
-                                Válvulas proporcionais
+                                Válvulas proporcionais 
                                 <br>
-                                Bombas de engrenagem, palheta e pistão
+                                Bombas de engrenagem, palheta e pistão 
                                 <br>
-                                Válvulas de controle direcional e pressão.
+                                Válvulas de controle direcional e pressão. 
                             </p>                            
                         </div>
     
@@ -65,44 +65,7 @@ include 'header.php';
                                 APLICAÇÔES
                             </h4>
                             <p>
-                                Sistemas hidráulicos
-                                <br>
-                                Sistemas de lubrificação
-                                <br>
-                                Umbilicais
-                            </p>                            
-                        </div>
-    
-                        <div class="topico">
-                            <h4>
-                                INDÚSTRIAS
-                            </h4>
-                            <p>
-                                Usinas Siderúrgicas
-                                <br>
-                                Usinas Nucleares
-                                <br>
-                                Refinarias e Plataformas de petróleo
-                                <br>
-                                Petroquímicas
-                                <br>
-                                Hidroelétricas
-                                <br>
-                                Termoelétricas
-                                <br>
-                                Indústria aeronáutica
-                            </p>                            
-                        </div>
-    
-    
-                        <div class="topico">
-                            <h4>
-                                RESULTADOS
-                            </h4>
-                            <p>
-                                Assegura a partida de sistemas hidráulicos e de lubrificação de acordo com os critérios do projeto. 
-                                <br>
-                                Contenção dos investimentos de reposição de componentes e manutenção geral. Evita panes da produção e degradação precoce.
+                                Unidades industriais que tenham nos seus processos produtivos os Sistemas Hidráulicos e de Lubrificação. 
                             </p>                            
                         </div>
                 
@@ -150,7 +113,7 @@ include 'header.php';
                 </div>
                 <div class="widget-servico-corpo">
                     <p>
-                        Procedimento de limpeza e remoção de incrustações externas e internas em equipamentos e tubulações, através do emprego de jato d'água à alta pressão.
+                        Procedimento de limpeza e remoção de incrustações e depósitos nas superfícies externa e internas de equipamentos e tubulações, através do emprego de jato d'água à alta pressão. 
                     </p>
                     
 
@@ -158,56 +121,33 @@ include 'header.php';
                         
                         <div class="topico">  
                             <h4>
-                                APLICAÇÕES
+                                EXEMPLOS DE ONDE APLICAR:
                             </h4>
                             <p>
-                                Caldeiras
+                                Caldeiras Geradoras de Vapor
                                 <br>
-                                Trocadores de calor
+                                Trocadores de Calor 
                                 <br>
-                                Torres de processo
+                                Reatores, Vasos e Torres de Processo 
                                 <br>
-                                Vasos
-                                <br>
-                                Tubulações
+                                Tubulações 
                                 <br>
                                 Tanques 
                                 <br>
-                                Caixas de resfriamento 
+                                Torres de Resfriamento 
                             </p>
                         </div>
                         
                         <div class="topico">  
                             <h4>
-                                INDÚSTRIAS
-                            </h4>
-                            <p>
-                                Usinas de álcool e açúcar 
-                                <br>
-                                Usinas Nuclear 
-                                <br>
-                                Usinas de cimento 
-                                <br>
-                                Refinarias e plataformas de petróleo
-                                <br>
-                                Petroquímicas
-                                <br>
-                                Hidrelétricas 
-                                <br>
-                                Papel e Celulose 
-                            </p>
-                        </div>
-                        
-                        <div class="topico">  
-                            <h4>
-                                RESULTADOS
+                                BENEFÍCIOS ALCANÇADOS: 
                             </h4>
                             <p>
                                 Desobstrução 
                                 <br>
                                 Aumento de troca térmica 
                                 <br>
-                                Aumento da vida útil dos equipamentos
+                                Aumento da vida útil dos equipamentos 
                             </p>
                         </div>
 
@@ -253,57 +193,39 @@ include 'header.php';
                 </div>
                 <div class="widget-servico-corpo">
                     <p>
-                        Serviço de limpeza interna de tubulações, através do uso de "PIGS", dispositivos de diversos modelos, materiais e tamanhos.
+                        Serviço de limpeza interna de Tubulações, através do uso do dispositivo denominado de  "PIG", dos mais diversos modelos, materiais e tamanhos. 
                     </p>
                     
                     <div class="topicos">
 
                         <div class="topico">  
                             <h4>
-                                TIPOS                            
+                                MODELOS/TIPOS 
                             </h4>
                             <p>                                
-                                Bala em espuma de poliuretano
+                                PIG em espuma de poliuretano 
                                 <br>
-                                Bala em espuma de poliéster
+                                PIG em espuma de poliéster 
                                 <br>
-                                Tipo copo e disco com ou sem escova
+                                PIG tipo copo e disco, com ou sem escova 
                                 <br>
-                                Raspador
+                                PIG tipo Raspador 
                             </p>
                         </div>
     
     
                         <div class="topico">  
                             <h4>
-                                APLICAÇÕES
+                                ALGUMAS APLICAÇÕES IMPORTANTES: 
                             </h4>
-                            <p>                                
-                                Remoção de detritos. oxidação, incrustações
+                            <p>
+                                Remoção de detritos, oxidações e incrustações 
                                 <br>
-                                Drenagem e secagem após teste hidrostático
+                                Drenagem e secagem após teste hidrostático 
                                 <br>
-                                Remoção de produtos em processos industriais
+                                Remoção de produtos em processos industriais 
                                 <br>
-                                Limpeza principal com água. 
-                            </p>
-                        </div>
-                        
-    
-                        <div class="topico">  
-                            <h4>
-                                INDÚSTRIAS
-                            </h4>
-                            <p>                                
-                                Petroquímicas
-                                <br>
-                                Refinarias e Plataformas de petróleo
-                                <br>
-                                Usinas Nucleares
-                                <br>
-                                Usinas Siderúrgicas 
-                                <br>
-                                Termoelétricas
+                                Como Limpeza principal
                             </p>
                         </div>
 
@@ -354,67 +276,29 @@ include 'header.php';
                 </div>
                 <div class="widget-servico-corpo">
                     <p>
-                        Limpeza Química é o processo de remoção de incrustações, depósitos e contaminantes presentes nas superfícies de equipamentos e tubulações industriais, através do uso de soluções químicas aplicadas por circulação mecânica, "vapor phase", imersão, aplicadas em serviços operacionais e pré-operacionais.
+                        Limpeza Química é o processo de remoção de contaminantes em geral, podendo ser do tipo Pré-Operacional ou Operacional. Incrustações e depósitos presentes nas superfícies dos equipamentos e tubulações industriais são removidas através da aplicação de soluções químicas específicas pelos mais diversos métodos: Circulação Mecânica Forçada, Imersão, Aspersão, Auto Circulação, Vapor Phase, ou pelas combinações desses métodos.  
                     </p>
 
                     <div class="topicos">
 
                         <div class="topico">                            
                             <h4>
-                                APLICAÇÕES
+                                EXEMPLOS DE ONDE APLICAR:
                             </h4>
                             <p>
-                                Caldeiras de geração de vapor 
+                                Caldeiras Geradoras de Vapor 
                                 <br>
-                                Trocadores de calor, air-coolers 
+                                Trocadores de Calor e Air-Coolers 
                                 <br>
-                                Sistemas hidráulicos e lubrificação
+                                Sistemas Hidráulicos e de Lubrificação 
                                 <br>
-                                Linhas de oxigênio 
+                                Tubulações e Equipamentos de Oxigênio, de Peróxido, de Cloro e Água Desmi 
                                 <br>
-                                Sucção de compressores
+                                Tubulação de Sucção de Compressores 
                                 <br>
-                                Reatores e fornos 
+                                Vasos, Reatores, Fornos e Torres de Processo 
                                 <br>
-                                Torres de processo e vasos
-                                <br>
-                                Linhas de vapor 
-                            </p>
-                        </div>
-
-                        <div class="topico">                            
-                            <h4>
-                                INDÚSTRIAS
-                            </h4>
-                            <p>
-                                Refinarias e plataformas de petróleo
-                                <br>
-                                Petroquímicas 
-                                <br>
-                                Siderúrgicas 
-                                <br>
-                                Termoelétricas
-                                <br>
-                                Hidrelétricas 
-                                <br>
-                                Alimentícias 
-                                <br>
-                                Papel e Celulose Cimento 
-                            </p>
-                        </div>
-
-                        <div class="topico">                            
-                            <h4>
-                                CONTROLES 
-                            </h4>
-                            <p>
-                                Ação química 
-                                <br>
-                                Ação mecânica
-                                <br>
-                                Tempo
-                                <br>
-                                Temperatura
+                                Tubulações de Vapor 
                             </p>
                         </div>
 
@@ -465,11 +349,11 @@ include 'header.php';
                     <h2 class="title">Resíduos de Limpeza de tubulações</h2>
                 </div>
                 <div class="widget-servico-corpo">
-                    <p>                        
-                        Serviço fundamental para a conservação dos equipamentos, garantindo a qualidade conforme todas as determinações técnicas.
+                    <p>
+                        Serviço fundamental para a conservação dos equipamentos, garantindo a qualidade conforme todas as determinações técnicas. 
                     </p>
-                    <p>                        
-                        Inúmeros procedimentos utilizados que podem ser aplicados para a determinação do melhor procedimento para a limpeza das tubulações.
+                    <p>
+                        Inúmeros procedimentos utilizados que podem ser aplicados para a determinação do melhor procedimento para a limpeza das tubulações. 
                     </p>
                 </div>
                 <div class="widget-servico-carrossel">
@@ -516,12 +400,12 @@ include 'header.php';
                 </div>
                 <div class="widget-servico-corpo">
                     <p>
-                        <strong>AMZ</strong> é a divisão de produtos químicos da empresa <strong>Noxi Química Ltda</strong>, direcionada para processos de tratamento de superfícies metálicas, onde se destaca o <strong>Gel Decapante e Apassivante</strong> para <strong>Aços Inoxidáveis</strong>.
+                         <strong>AMZ</strong> é a divisão de produtos químicos da <strong>NOXI QUIMICA</strong>, direcionada para processos de tratamento de superfícies metálicas, onde se destaca o <strong>Gel Decapante e Apassivante</strong> para <strong>Aços Inoxidáveis</strong>. 
                     </p>
                     <p>                        
                         Informações: WhatsApp: <strong>19 97107 4533</strong>.
                         <br>
-                        E-mail: <a class="mailto" href="mailto:comercial@amzquimica.com.br">comercial@amzquimica.com.br</a>.
+                        E-mail: <a class="mailto" href="mailto:comercial@amzquimica.com.br">comercial@amzquimica.com.br</a>. 
                     </p>
 
 
@@ -534,15 +418,15 @@ include 'header.php';
                                 Área de atuação
                             </h4>
                             <p>
-                                Tubulações e Chapas
+                                Tubulações e Chapas 
                                 <br>
-                                Tanques e Colunas
+                                Tanques e Colunas 
                                 <br>
-                                Trocadores de Calor
+                                Trocadores de Calor 
                                 <br>
-                                Vasos e Colunas
+                                Vasos e Colunas 
                                 <br>
-                                Equipamentos em Geral
+                                Equipamentos em Geral 
                             </p>
                         </div>
                         

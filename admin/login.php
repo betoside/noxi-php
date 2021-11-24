@@ -1,5 +1,6 @@
         
         <?php 
+        $config['secao'] = "login";
         include 'header.php'; 
 
         require 'classes/usuario.class.php';
@@ -25,6 +26,7 @@
         <div class="login-form">
 
         <?php if(isset($erro) && !empty($erro)): ?>
+            <br><br>
             <div class="alert alert-danger">
                 Usuário e/ou senha errados
             </div>

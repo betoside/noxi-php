@@ -19,7 +19,7 @@ include 'header.php';
                 <div class="bg">
                     <h2>conheça a noxi</h2>
                     <p>
-                        Atuando há 38 anos, a NOXI QUÍMICA é uma empresa especializada na aplicação de processos de descontaminação em Sistemas de Tubulações e Equipamentos. Com a utilização dos nossos processos, ocorrerá uma otimização dos custos de produção e manutenção dentro das condições projetadas para os setores produtivos em análise, minimizando ­e ou eliminando­ se os problemas normalmente encontrados tais como: contaminação de produtos acabados, partidas de plantas demoradas, danos mecânicos, paradas das unidades com perda de produção, vida útil do equipamento reduzida, aumento do consumo de energia, água e maior impacto ambiental em relação ao projetado.
+                        Atuando há 38 anos, a <strong>NOXI QUÍMICA LTDA</strong> é uma empresa especializada na aplicação de processos de Limpeza Química e/ou Descontaminação em sistemas de Tubulações e Equipamentos Industriais em geral. Com a utilização dos nossos processos, obtem-se uma otimização dos custos de produção e manutenção dentro das condições projetadas para os setores produtivos em análise,  eliminando­ os problemas normalmente encontrados, tais como: contaminação de produtos acabados e consequentemente perda de matéria-prima, partida de longa duração da unidade industrial, danos mecânicos em equipamentos, parada não programada da unidade industrial com perda de produção, vida útil do equipamento reduzida, consumo excessivo de utilidades (água, ar comprimido, energia elétrica, vapor) e maior impacto ambiental em relação ao projetado. 
                     </p>
                 </div>
             </div>
@@ -29,7 +29,7 @@ include 'header.php';
             SEGMENTOS DE ATUAÇÃO
         </h2>
         <p>
-            Petróleo (refinarias, plataformas, plantas de gás), petroquímicas, indústrias químicas, fábricas de papel e celulose, indústrias têxteis, usinas siderúrgicas, indústrias metalúrgicas, usinas termelétricas e hidroelétricas, fábricas de tintas e vernizes, caldeirarias fabricantes de equipamentos, indústrias automotivas e afins.
+            Petróleo (refinarias, plataformas, plantas de gás), Petroquímicas, Usinas Siderúrgicas, Usinas Termelétricas e Hidroelétricas, Fábricas de Papel e Celulose, Usinas de Álcool e Açúcar, Usinas Nucleares, Indústrias Químicas, Indústrias Têxteis, Indústrias Metalúrgicas, Industrias Alimentícias, Industrias de Bens de Capital ou de Base e afins. Basicamente, o campo de atuação abrange todo o setor industrial.
         </p>
         <br><br>
 
@@ -40,7 +40,7 @@ include 'header.php';
                     MISSÃO
                 </h4>
                 <p>
-                    A missão da NOXI é prestar serviços ao segmento industrial, atuando com aplicação de processos de descontaminação em Sistemas de Tubulações e Equipamentos, seguindo princípios éticos e de excelência, promovendo a oportunidade segura no desenvolvimento das atividades, gerando lucros para seus acionistas, clientes e fornecedores.
+                    A missão da NOXI é prestar serviços ao segmento industrial, atuando com a aplicação de processos de limpeza e/ou descontaminação em sistemas de Tubulações e Equipamentos, seguindo princípios éticos e de excelência, promovendo a oportunidade segura no desenvolvimento das atividades, gerando lucros para seus acionistas, clientes e fornecedores. 
                 </p>
             </div>
 
@@ -49,7 +49,7 @@ include 'header.php';
                     VISÃO
                 </h4>
                 <p>
-                    Ser uma empresa de excelência profissional, aprimorar as capacidades individuais e ser reconhecida pela inovação na prestação de serviços de descontaminação em Sistemas de Tubulações e Equipamentos Industriais.                
+                    Ser uma empresa de excelência profissional, aprimorar as capacidades individuais e ser reconhecida pela inovação na prestação de serviços de limpeza e/ou descontaminação em Sistemas de Tubulações e Equipamentos Industriais.
                 </p>
             </div>
 
@@ -58,7 +58,7 @@ include 'header.php';
                     VALORES
                 </h4>
                 <p>
-                    Os nossos valores são focados em atitude, comportamento e resultados, entendidos, assumidos e praticados pelos nossos funcionários e aplicados às relações da empresa com clientes, fornecedores e parceiros, com destaque:                
+                    Os nossos valores são focados em Atitude, Comportamento e Resultados, entendidos, assumidos e praticados pelos nossos colaboradores e aplicados às relações da empresa com clientes, fornecedores e parceiros, com destaque:
                 </p>
             </div>
 
@@ -72,19 +72,19 @@ include 'header.php';
 
             <p><strong>Ética:</strong> garantir a prática de ações transparentes e justas.</p>
 
-            <p><strong>Inovação:</strong> buscar soluções criativas baseadas em conhecimentos e viáveis de serem implantadas.</p>
+            <p><strong>Inovação:</strong> buscar soluções criativas baseadas em conhecimento e viáveis de serem implantadas.</p>
 
             <p><strong>Responsabilidade Social:</strong> contribuir para o desenvolvimento da sociedade e do meio ambiente.</p>
 
-            <p><strong>Segurança, Saúde e Integridade Física e Moral:</strong> a segurança do trabalho reflete nosso respeito ao bem mais precioso da nossa empresa: a vida dos nossos funcionários.</p>
+            <p><strong>Segurança, Saúde e Integridade Física e Moral:</strong> a segurança do trabalho reflete nosso respeito ao bem mais precioso da nossa empresa: a vida dos nossos colaboradores.</p>
 
-            <p><strong>Contrato Social:</strong> cumprir rigorosamente e manter em dia todos os compromissos financeiros dos contratos assumidos com funcionários, fornecedores, clientes e órgãos governamentais através dos impostos, contribuições, encargos e taxas públicas.</p>
+            <p><strong>Contrato Social:</strong> cumprir rigorosamente e manter em dia todos os compromissos financeiros dos contratos assumidos com colaboradores, fornecedores, clientes e órgãos governamentais através dos impostos, contribuições, encargos e taxas públicas.</p>
 
             <p><strong>Abertura:</strong> Reforçar diariamente nossas parcerias.</p>
 
-            <p><strong>Simplicidade:</strong> Estimular a criatividade em nosso time e parceiros.</p>
+            <p><strong>Simplicidade:</strong> Estimular sempre a criatividade em nossa equipe e parceiros.</p>
 
-            <p><strong>Integridade:</strong> Proceder conforme pensamos. Sempre com integridade e coerência.</p>
+            <p><strong>Integridade:</strong> Proceder conforme pensamos: sempre com integridade e coerência.</p>
 
         </div>
 
@@ -168,7 +168,7 @@ include 'header.php';
                 </div>
                 <div class="bg">
                     <p>
-                        A NOXI QUÍMICA dispõe de profissionais altamente capacitados que são aliados a alta tecnologia e preparados a oferecer serviços de alta qualidade, seguindo todos os procedimentos mais modernos e avançados do mercado que atua.
+                        A NOXI QUÍMICA dispõe de profissionais capacitados que utilizam a mais alta tecnologia disponível, oferecendo serviços de alta qualidade através da aplicação de procedimentos modernos e avançados dentro do mercado em que atua. 
                     </p>
                 </div>
             </div>
@@ -184,7 +184,7 @@ include 'header.php';
                 </div>
                 <div class="bg">
                     <p>
-                        A NOXI QUÍMICA promove ações voltadas à melhoria nos padrões ambientais da nossa sociedade e do meio que atuamos, para que assim tenhamos uma redução continua dos impactos sobre o meio ambiente em nosso planeta.
+                        A NOXI QUÍMICA promove ações voltadas à melhoria nos padrões ambientais da nossa sociedade e do meio em que atuamos, visando uma redução continua dos impactos sobre o meio ambiente em nosso planeta. 
                     </p>
                 </div>
             </div>

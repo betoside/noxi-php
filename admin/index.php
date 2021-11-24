@@ -11,6 +11,9 @@
             <div class="area-formlario">
                 <br><br>
                 <h1>Seja bem-vindo</h1>
+                <?php
+                // print_r($_SESSION['noxiLogin']);
+                ?>
             </div>
 
         </div>

@@ -39,7 +39,7 @@ class Usuarios {
 
         if (!empty($senha)) {
             $senha = md5($senha);
-            $sql .= " senha = '$senha'";
+            $sql .= ", senha = '$senha'";
         }
         $sql .= " WHERE id = '$id'";
         

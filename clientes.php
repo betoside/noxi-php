@@ -20,7 +20,7 @@ include 'header.php';
                     A NOXI QUÍMICA é movido pelo atendimento de qualidade e pela satisfação constante dos nossos clientes, nossa luta diariamente é ser mais eficiente e mais parceiro em todos os momentos.
                 </p>
                 <p>
-                    Conheça nossos clientes:
+                    Conheça nossos clientes: 
                 </p>
             </div>
             <!-- <br><br> -->

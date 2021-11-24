@@ -17,7 +17,7 @@ include 'header.php';
             <h2 class="titulo-secao">fale com a noxi</h2>
             <div class="contato-conteudo">
                 <p>
-                    Entre em contato com a NOXI QUÍMICA utilizando o formulário abaixo, mas se preferir, faça uma ligação ou nos envie um e-mail. Seu contato é muito importante para nós, teremos o maior prazer em falar com você.
+                    Entre em contato com a NOXI QUÍMICA utilizando o formulário abaixo, mas se preferir, faça uma ligação ou nos envie um e-mail. Seu contato é muito importante para nós, teremos o maior prazer em falar com você. 
                 </p>
             </div>
             
